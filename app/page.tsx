@@ -1,9 +1,9 @@
+// En app/page.tsx
 export default function Home() {
   return (
     <main>
-      <h1>¡Bienvenido a DOCAGIL por Abram! 🚀</h1>
-      <p>Mi app personalizada, creada el {new Date().toLocaleDateString()}</p>
-      <p>Hora actual: {new Date().toLocaleTimeString()}</p>
+      <h1>¡PRUEBA DEFINITIVA: FUNCIONA, AMIGO! 🎉</h1>
+      <p>Commit del 20/10/2025.</p>
     </main>
   );
 }
